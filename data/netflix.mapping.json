@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "release_year": {
+      "type": "date",
+      "format": "year"
+    }
+  }
+}
